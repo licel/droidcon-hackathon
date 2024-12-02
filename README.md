@@ -8,8 +8,9 @@ Learn new technologies, enhance your team management and presentation skills, an
 
 ## Timeline
 
-* **Start Date and Time:** 1st January 2022 at 11:00 AM IST
-* **Start Date and Time:** 3rd January 2022 at 11:00 AM IST
+* **Start Date and Time:** 2nd December 2024 at 6:00 PM UTC
+* **Start Date and Time:** 13th December 2024 at 12:00 PM UTC
+* **Results announcement Date and Time:** 18th December 2024
 
 ## Prizes
 
