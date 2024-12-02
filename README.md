@@ -26,7 +26,7 @@ Learn new technologies, enhance your team management and presentation skills, an
 
 >* Google Pixel Watch 3
 
-## Judging Parameters
+## Judging Process
 
 ### Technical review
 * The project repository must include a brief description of the hackathon idea.
