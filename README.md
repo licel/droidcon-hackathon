@@ -32,22 +32,21 @@ Learn new technologies, enhance your team management and presentation skills, an
 
 ## Judging Parameters
 
-1. Project Completeness and Functionality *(25%)*
+### Technical review
+* The project repository must include a brief description of the hackathon idea.
+* The project must build successfully using the Android Gradle Plugin (AGP) version 8.9
+* The compiled APK must run successfully on an Android Emulator.
 
-> * Does the project stand as an individual end-to-end product?
-> * Is it a functioning solution that can scale in the real world?
+### Jury Evaluation
 
-2. Creativity in Design *(25%)*
+Each project will be scored between 0 and 5 points by five independent judges based on the following criteria:
 
-> * Does the project bring innovations in design and create comfortable user experiences?
+* Innovation of the idea
+* Implementation quality
+* Practicality of the Trusted Application integration
+* Overall project presentation
 
-3. Innovation in Idea *(25%)*
-
-> * Does the project attempt to solve a previously unsolved problem?
-
-4. Social Impact *(25%)*
-
-> * Does the project have an impact on people's lives at a social level?
+> The top three projects with the highest points will receive prizes according to their scores.
 
 ## How To Submit Your Project?
 
