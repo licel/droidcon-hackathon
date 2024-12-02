@@ -67,5 +67,7 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 
 [Java Card Documentation](https://docs.oracle.com/en/java/javacard/3.1/index.html)
 
+[HOTP Authenticator](https://github.com/licel/hotp-authenticator)
+
 
 ---
