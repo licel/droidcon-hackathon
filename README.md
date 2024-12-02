@@ -86,4 +86,14 @@ https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-
 
 All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
 
+## Resources
+[jCardSim](https://jcardsim.org)
+
+[Licel vTEE](https://licelus.com/products/vtee)
+
+[Developing Trusted Applications for Trusted Execution Environments and VTEEs talk](https://www.droidcon.com/2024/11/22/developing-trusted-applications-for-trusted-execution-environments-and-vtees/)
+
+[Java Card Documentation](https://docs.oracle.com/en/java/javacard/3.1/index.html)
+
+
 ---
