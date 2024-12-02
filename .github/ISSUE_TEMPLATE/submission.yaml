@@ -1,12 +1,12 @@
 name: Hackathon Submission
-description: Add a hackathon submission
+description: Add a Hackathon submission
 title: "[Project]: "
 labels: ["submission", "needreview"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for participating in the hackathon and creating your submission!
+        Thanks for participating in the Hackathon and creating your submission!
   - type: input
     id: name
     attributes:
@@ -27,7 +27,7 @@ body:
     id: description
     attributes:
       label: Project Description
-      description: What have you built during the hackathon?
+      description: What have you built during the Hackathon?
       placeholder: The project I created is...
     validations:
       required: true
