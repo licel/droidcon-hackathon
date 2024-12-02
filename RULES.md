@@ -1,16 +1,15 @@
 # Hackathon Rules
 <!-- This is a sample set of rules. Feel free to add new rules or remove any existing ones. -->
 
-* The hackathon will start at **<2nd December 2024 at 6:00 PM UTC>** and end at **<13th December 2024 at 12:00 PM UTC>**, you work on your project during the allotted time only. Older projects will not be allowed. 
+* The Hackathon will start on **<2nd December 2024 at 6:00 PM UTC>** and will end on **<13th December 2024 at 12:00 PM UTC>**. You will only be able to work on your project during the allotted time.
 
-* You can attend the hackathon if you registered for it during Droidcon London 2024.
+* This Hackathon is exclusive to those who registred during Droidcon London 2024.
 
 * You must create a Trusted Application using Java Card Applet technology and integrate it into a mobile application for Android using jCardSim.
 
-* Once the hackathon starts, you will get an option to submit your project, you can submit as many times as you want, the last project will be considered as the final submission.
+* Once the Hackathon begins, you will be able to submit your project. You can submit as many times as you like, the last submission will be considered
+  final.
 
-* Your project must be developed entirely during the Hackathon duration. You may use open-source libraries and other freely available systems/services such as public cloud platforms, APIs, etc.
+* The intellectual property of your code belongs only to you.
 
-* The intellectual property of your code belongs only to your team.
-
-* By participating in the hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
+* By participating in the Hackathon, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
