@@ -1,3 +1,4 @@
+
 # **The Licel / Droidcon Hackathon**
 
 ## About The Hackathon
@@ -68,6 +69,8 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 [Java Card Documentation](https://docs.oracle.com/en/java/javacard/3.1/index.html)
 
 [HOTP Authenticator](https://github.com/licel/hotp-authenticator)
+
+[Hackathon Webinar slides](https://github.com/licel/droidcon-hackathon/blob/main/Hackathon_Droidcon_2024.pdf)
 
 
 ---
