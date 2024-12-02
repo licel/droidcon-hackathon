@@ -72,5 +72,7 @@ All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_
 
 [Hackathon Webinar slides](https://github.com/licel/droidcon-hackathon/blob/main/Hackathon_Droidcon_2024.pdf)
 
+[Hackathon Webinar video](https://github.com/licel/droidcon-hackathon/blob/main/Licel-vTEE-JCardSim-Droidcon-2024.mp4)
+
 
 ---
