@@ -11,24 +11,6 @@ Learn new technologies, enhance your team management and presentation skills, an
 * **Start Date and Time:** 1st January 2022 at 11:00 AM IST
 * **Start Date and Time:** 3rd January 2022 at 11:00 AM IST
 
-## Tracks
-
-* Track 1
-
-> Description of Track 1
-
-* Track 2
-
-> Description of Track 2
-
-* Track 3
-
-> Description of Track 3
-
-* Track 4
-
-> Description of Track 4
-
 ## Prizes
 
 * **1st Prize**
