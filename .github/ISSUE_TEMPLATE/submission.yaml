@@ -12,7 +12,7 @@ body:
     attributes:
       label: Name
       description: Enter your full name
-      placeholder: Aditya Oberai
+      placeholder:
     validations:
       required: true
   - type: input
@@ -20,17 +20,9 @@ body:
     attributes:
       label: Email Address
       description: Enter your email address
-      placeholder: foo@bar.com
+      placeholder: 
     validations:
       required: true
-  - type: input
-    id: team-emails
-    attributes:
-      label: Email Addresses of Team Members
-      description: Enter the email addresses of you team members separated by commas (if you have any)
-      placeholder: foo1@bar.com, foo2@bar.com, foo3@bar.com,...
-    validations:
-      required: false
   - type: textarea
     id: description
     attributes:
@@ -55,24 +47,12 @@ body:
       placeholder: The technologies I used...
     validations:
       required: true
-  - type: dropdown
-    id: track
-    attributes:
-      label: Hackathon Track
-      description: What hackathon track are you opting in?
-      options:
-        - Track 1
-        - Track 2
-        - Track 3
-        - Track 4
-    validations:
-      required: true
   - type: input
     id: project-link
     attributes:
       label: Project Repo
       description: Share a public repo link of your project
-      placeholder: https://github.com/code-capture/CodeCapture-Xamarin
+      placeholder: 
     validations:
       required: true
   - type: input
@@ -80,7 +60,7 @@ body:
     attributes:
       label: Demo Video/Photos
       description: Share a publicly visible demo video/photos link of your project
-      placeholder: https://www.youtube.com/watch?v=9IBaX1avYWc
+      placeholder: 
     validations:
       required: false
   - type: textarea
