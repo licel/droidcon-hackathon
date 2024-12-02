@@ -1,7 +1,7 @@
 # Hackathon Rules
 <!-- This is a sample set of rules. Feel free to add new rules or remove any existing ones. -->
 
-* The hackathon will start at **<2nd December 2024 at 6:00 PM UTC>** and end at **<13th December 2024 at 12:00 PM UTC>**, you work on your project during the allotted time only. Older projects will not be allowed. We will require you to build your project on the hackathon weekend.
+* The hackathon will start at **<2nd December 2024 at 6:00 PM UTC>** and end at **<13th December 2024 at 12:00 PM UTC>**, you work on your project during the allotted time only. Older projects will not be allowed. 
 
 * Once the hackathon starts, you will get an option to submit your project, you can submit as many times as you want, the last prokect will be considered as the final submission.
 
