@@ -16,19 +16,15 @@ Learn new technologies, enhance your team management and presentation skills, an
 
 * **1st Prize**
 
->* Cash worth $500
->* XYZ Hackathon Swags
-
+>* Apple MacBook Air
 
 * **2nd Prize**
 
->* Cash worth $300
->* XYZ Hackathon Swags
+>* Google Pixel 9 Pro
 
 * **3rd Prize**
 
->* Cash worth $100
->* XYZ Hackathon Swags
+>* Google Pixel Watch 3
 
 ## Judging Parameters
 
