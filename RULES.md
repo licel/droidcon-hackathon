@@ -1,7 +1,7 @@
 # Hackathon Rules
 <!-- This is a sample set of rules. Feel free to add new rules or remove any existing ones. -->
 
-* The Hackathon will start on **<2nd December 2024 at 6:00 PM UTC>** and will end on **<13th December 2024 at 12:00 PM UTC>**. You will only be able to work on your project during the allotted time.
+* The Hackathon will start on **<2nd December 2024 at 6:00 PM UTC>** and will end on **<13th December 2024 at 11:59 PM UTC>**. You will only be able to work on your project during the allotted time.
 
 * This Hackathon is exclusive to those who registred during Droidcon London 2024.
 
