@@ -1,16 +1,16 @@
-# XYZ Hackathon: Example Hackathon Description
+# **The Licel / Droidcon Hackathon**
 
 ## About The Hackathon
 
-XYZ Hackathon is a 48-hour digital hackathon where young minds possessing a passion for solving real-life problems come together to build innovative solutions. Whether you are a beginner or an expert coder, here is the perfect chance to hone your skills and witness the competitive yet inclusive developer community around you!
+The Licel / Droidcon Hackathon is a challenge exclusive to attendees of Droidcon London 2024. It gives enterprising, innovative, problem-solving software developers the opportunity to test their skills by creating a Trusted Application using Licel's open-source Java Card Simulator, JCardSim. 
 
-Learn new technologies, enhance your team management and presentation skills, and get mentored by experts- all in one place!
+You don't only get the chance to work with a truly transformative tool, however. The top three Trusted Application submissions will also be rewarded with some fantastic prizes!
 
 ## Timeline
 
-* **Start Date and Time:** 2nd December 2024 at 6:00 PM UTC
-* **Start Date and Time:** 13th December 2024 at 12:00 PM UTC
-* **Results announcement Date:** 18th December 2024
+* **The Hackathon begins at 6pm (London time) on Monday 2nd December 2024 with our live webinar**
+* **The Hackathon submission deadline is 11.59pm (London time) on Friday 13th December 2024**
+* **We will announce the winners on 18th December 2024**
 
 ## Prizes
 
